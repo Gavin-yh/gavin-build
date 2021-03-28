@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "bin": {
-    "@gavin-build": "./bin/build.js"
+    "gBuild": "./bin/build.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

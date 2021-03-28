@@ -1,6 +1,5 @@
 #! /usr/bin/env node
 
-
 let path = require('path')
 let fs = require("fs")
 let Compiler = require('../lib/compiler.js')
